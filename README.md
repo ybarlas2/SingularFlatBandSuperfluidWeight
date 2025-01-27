@@ -1,3 +1,2 @@
-The codes to generate the plots and data need mathematica. Superfluid weight for two- and three-band can be generated from 2-band calculation.nb, 3-band dispersive calculation.nb, 3-band flattened calculation.nb 
-and 3-band nonsingular.nb. The BKT transition plots are genetrated using FiniteTCalculation.nb. The three band Lieblattice model's interaction parameter for the uniform pairing condition is generate using RatioAB.nb.
-Other codes are used for generating plot for the paper and the supplmental sections. 
+The multi-dimensional secant method developed by G.J. in this work, which is highly efficient and suitable for solving self-consistency gap equations including the BKT equation for multi-orbital superconductors with multiple order parameters. The codes to generate the plots and data need mathematica. Calculations for two- and three-band models can be generated from 2-band calculation.nb, 3-band dispersive calculation.nb, 3-band flattened calculation.nb 
+and 3-band nonsingular.nb.
